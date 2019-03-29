@@ -1,6 +1,5 @@
 #include <stdio.h>
 int fibonacci(int f){
-    int s=0;
     if(f<2){
         return f;
     }else{
