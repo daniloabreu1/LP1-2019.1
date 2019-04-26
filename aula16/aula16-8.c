@@ -1,7 +1,7 @@
 #include <stdio.h>
 main(){
     char *p="bom dia";
-    puts(p);
+    printf("%p\n",p);
     p="novo texto";
-    puts(p);
+    printf("%p\n",p);
 }
