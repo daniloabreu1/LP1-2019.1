@@ -35,4 +35,5 @@ main(){
     press(mat,linhas, colunas);
     preencher(mat,linhas,colunas);
     press(mat,linhas, colunas);
+    free(mat);
 }

@@ -48,4 +48,5 @@ main(){
     p=vetPessoa(m,n);
     salvarNomes(p,m,n);
     imprimir(p,m,n);
+    free(p);
 }

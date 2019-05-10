@@ -35,4 +35,5 @@ main(){
     p=criar(n);
     salvar(p,n);
     imprimir(p,n);
+    free(p);
 }

@@ -20,4 +20,5 @@ main(){
     texto=getPalavra();
     puts(texto);
     printf("%d",strlen(texto));
+    free(texto);
 }
