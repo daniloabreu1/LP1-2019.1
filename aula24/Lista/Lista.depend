@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1542964272 source:d:\google drive\trabalho\uepb\2018-1\lp1\códigos\aula23\lista\aula23-lista.c
+	"lista.h"
+	<stdio.h>
+
+1542959364 d:\google drive\trabalho\uepb\2018-1\lp1\códigos\aula23\lista\lista.h
+
+1542964260 source:d:\google drive\trabalho\uepb\2018-1\lp1\códigos\aula23\lista\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1559033557 source:d:\google drive\trabalho\uepb\2019-1\lp1\códigos\aula24\lista\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1559033599 d:\google drive\trabalho\uepb\2019-1\lp1\códigos\aula24\lista\lista.h
+
+1542964272 source:d:\google drive\trabalho\uepb\2019-1\lp1\códigos\aula24\lista\aula24-lista.c
+	"lista.h"
+	<stdio.h>
+
